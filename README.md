@@ -1,6 +1,6 @@
 ## Hello, My Name is Chase Bulkin!
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/chase-b04/chase-b04/blob/output/github-snake-dark.svg)
 
 - 💼 SWE Intern @ https://www.irenix.org/ 
 - 🔭 I’m currently working on: senior capstone with ASU/NASA Psyche Mission, a RoboCar using a FRDM-KL46 by NXP, PWN.College Orange Belt and my own personal discord bot!

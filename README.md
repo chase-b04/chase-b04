@@ -1,4 +1,4 @@
-<img width="715" height="442" alt="image" src="https://github.com/user-attachments/assets/af1c1ff5-9321-41b4-91dc-9858edcbc484" />## Hello, My Name is Chase Bulkin!
+## Hello, My Name is Chase Bulkin!
 
 - 💼 SWE Intern @ https://www.irenix.org/ 
 - 🔭 I’m currently working on: senior capstone with ASU/NASA Psyche Mission, a RoboCar using a FRDM-KL46 by NXP, PWN.College Orange Belt and my own personal discord bot!

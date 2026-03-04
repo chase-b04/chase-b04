@@ -1,6 +1,7 @@
-## Hello, My Name is Chase Bulkin!
+<img width="715" height="442" alt="image" src="https://github.com/user-attachments/assets/af1c1ff5-9321-41b4-91dc-9858edcbc484" />## Hello, My Name is Chase Bulkin!
 
-- 🔭 I’m currently working on: A internship with Irenix Empowerment Foundation, my capstone with ASU/NASA Psyche Mission, a RoboCar using a FRDM-KL46 by NXP, and my own personal discord bot!
+- 💼 SWE Intern @ https://www.irenix.org/ 
+- 🔭 I’m currently working on: senior capstone with ASU/NASA Psyche Mission, a RoboCar using a FRDM-KL46 by NXP, PWN.College Orange Belt and my own personal discord bot!
 - 🎓Getting my Bachelors in Computer Science (focus in Cybersecurity) at Arizona State University in May 2026!
 - 🌱 I’m currently learning: DevOPS (Cloud Services, Containerization, Infrastructure), Embedded Systems, Networks, and Digital Forensics
 - 🫘 I plan to learn: Computer Vision, Malware Analysis

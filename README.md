@@ -4,7 +4,7 @@
 
 - 💼 SWE Intern @ https://www.irenix.org/ 
 - 🔭 I’m currently working on: senior capstone with ASU/NASA Psyche Mission, a RoboCar using a FRDM-KL46 by NXP, PWN.College Orange Belt, and my own personal discord bot!
-- 🎓 Graduation with my Bachelors in Computer Science (focus in Cybersecurity) at Arizona State University in May 2026!
+- 🎓 Graduating with my Bachelors in Computer Science (focus in Cybersecurity) at Arizona State University in May 2026!
 - 🌱 I’m currently learning: DevOPS (Cloud Services, Containerization, Infrastructure), Embedded Systems, Ethical Hacking, and Digital Forensics
 - 🫘 I plan to learn: Computer Vision, Malware Analysis
 - 👯 I’m looking to collaborate on: Application Development, Hardware, Game Design, and Cybersecurity 

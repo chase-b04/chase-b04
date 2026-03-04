@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on: A internship with Irenix Empowerment Foundation, my capstone with ASU/NASA Psyche Mission, a RoboCar using a FRDM-KL46 by NXP, and my own personal discord bot!
 - 🎓Getting my Bachelors in Computer Science (focus in Cybersecurity) at Arizona State University in May 2026!
-- 🌱 I’m currently learning: Cloud Services in AWS and Google Cloud, Embedded Systems, Reverse Engineering, Networks, Computer Forensics
+- 🌱 I’m currently learning: DevOPS (Cloud Services, Containerization, Infrastructure), Embedded Systems, Networks, and Digital Forensics
 - 🫘 I plan to learn: Computer Vision, Malware Analysis
-- 👯 I’m looking to collaborate on: Projects relating to application development, hardware, game design, and cybersecurity 
+- 👯 I’m looking to collaborate on: Application Development, Hardware, Game Design, and Cybersecurity 
 - 🤔 I’m looking for help with: Nothing (as of now 👀)
 - 💬 Ask me about my interests, previous projects, and hobbies!
 - 📫 How to reach me: chasebulkin@outlook.com

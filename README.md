@@ -11,7 +11,6 @@
 - 🤔 I’m looking for help with: Nothing (as of now 👀)
 - 💬 Ask me about my interests, previous projects, and hobbies!
 - 📫 How to reach me: chasebulkin@outlook.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite pokemon are Jirachi, Sylveon, Chespin, and Persian
 
 - LinkedIn: https://www.linkedin.com/in/chase-bulkin/

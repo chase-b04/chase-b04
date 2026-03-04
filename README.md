@@ -11,9 +11,6 @@
 - 🤔 I’m looking for help with: Nothing (as of now 👀)
 - 💬 Ask me about my interests, previous projects, and hobbies!
 - 📫 How to reach me: chasebulkin@outlook.com
-- ⚡ Fun fact: My favorite pokemon are Jirachi, Sylveon, Chespin, and Persian
-
-- LinkedIn: https://www.linkedin.com/in/chase-bulkin/
 
 <!--
 **chase-b04/chase-b04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

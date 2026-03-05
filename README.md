@@ -5,12 +5,13 @@
 - 💼 SWE Intern @ https://www.irenix.org/ 
 - 🔭 I’m currently working on: senior capstone with ASU/NASA Psyche Mission, a RoboCar using a FRDM-KL46 by NXP, PWN.College Orange Belt, and my own personal discord bot!
 - 🎓 Graduating with my Bachelors in Computer Science (focus in Cybersecurity) at Arizona State University in May 2026!
-- 🌱 I’m currently learning: DevOPS (Cloud Services, Containerization, Infrastructure), Embedded Systems, Ethical Hacking, and Digital Forensics
+- 🌱 I’m currently learning: DevOPS (Cloud Services, Containerization, Infrastructure), Embedded Systems, Ethical Hacking, and Machine Learning!
 - 🫘 I plan to learn: Computer Vision, Malware Analysis
 - 👯 I’m looking to collaborate on: Application Development, Hardware, Game Design, and Cybersecurity 
 - 🤔 I’m looking for help with: Nothing (as of now 👀)
 - 💬 Ask me about my interests, previous projects, and hobbies!
 - 📫 How to reach me: chasebulkin@outlook.com
+- ⚡ Pay your local artist!
 
 <!--
 **chase-b04/chase-b04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

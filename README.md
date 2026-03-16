@@ -3,7 +3,7 @@
 ![snake gif](https://github.com/chase-b04/chase-b04/blob/output/github-snake-dark.svg)
 
 - 💼 SWE Intern @ https://www.irenix.org/ 
-- 🔭 I’m currently working on: senior capstone with ASU/NASA Psyche Mission, a RoboCar using a FRDM-KL46 by NXP, PWN.College Orange Belt, and my own personal discord bot!
+- 🔭 I’m currently working on: senior capstone with ASU/NASA Psyche Mission, An AI-Powered Finance Engine in Go, a RoboCar using a FRDM-KL46 by NXP, and the PWN.College Orange Belt!
 - 🎓 Graduating with my Bachelors in Computer Science (focus in Cybersecurity) at Arizona State University in May 2026!
 - 🌱 I’m currently learning: DevOPS (Cloud Services, Containerization, Infrastructure), Embedded Systems, Ethical Hacking, and Machine Learning!
 - 🫘 I plan to learn: Computer Vision, Malware Analysis

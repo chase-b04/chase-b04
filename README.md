@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/chase-b04/chase-b04/blob/output/github-snake-dark.svg)
 
-- 💼 SWE Intern @ https://www.irenix.org/
+- 💼 My current stack: TypeScript, React, TailwindCSS, Node.js, Express.js, PostgreSQL, GCP 
 - 📓 Professional Experience in TypeScript, CSS/HTML, Python, and Bash; Hobby/Educational experience with: Go, Java, C/C++, C#
 - 🔭 I’m currently working on: my Senior capstone with ASU/NASA Psyche Mission, a Smart Finance Engine, a RoboCar using a FRDM-KL46 by NXP, and the PWN.College Orange Belt
 - 🎓 Graduating with my Bachelors in Computer Science (focus in Cybersecurity) at Arizona State University in May 2026

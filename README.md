@@ -2,14 +2,13 @@
 
 ![snake gif](https://github.com/chase-b04/chase-b04/blob/output/github-snake-dark.svg)
 
-- 💼 My current stack: TypeScript, React, TailwindCSS, Node.js, Express.js, PostgreSQL, GCP 
-- 📓 Professional Experience in TypeScript, CSS/HTML, Python, and Bash; Hobby/Educational experience with: Go, Java, C/C++, C#
-- 🔭 I’m currently working on: my Senior capstone with ASU/NASA Psyche Mission, a Smart Finance Engine, a RoboCar using a FRDM-KL46 by NXP, and the PWN.College Orange Belt
-- 🎓 Graduating with my Bachelors in Computer Science (focus in Cybersecurity) at Arizona State University in May 2026
-- 🌱 I’m currently learning: Cloud Services, Embedded Systems, Ethical Hacking, and Machine Learning
-- 🫘 I plan to learn: Computer Vision, Malware Analysis, Rust
-- 👯 I’m looking to collaborate on: Application/Website Development, Hardware, Game Design, and Cybersecurity 
-- 🤔 I’m looking for help with: Nothing (as of now 👀)
+- 💼 My current stack: TypeScript, React, TailwindCSS, Node.js, PostgreSQL 
+- 📓 Professional Experience in TypeScript, JavaScript, React, Next.js, CSS/HTML, Python, and Bash
+- 🔭 I’m currently working on: Multiple ServiceNow projects with my internship @ KeenStack, my upcoming mobile and web application Aisle!
+- 🎓 Graduated with my Bachelors in Computer Science (Cybersecurity) from ASU
+- 🌱 I’m currently learning: Cloud Services. Full-Stack development, Distributed Systems
+- 👯 I’m looking to collaborate on: Application Development, Hardware, Game Design, and Cybersecurity 
+- 🤔 I’m looking for help with: Nothing yet!
 - 💬 Ask me about my interests, previous projects, and hobbies!
 - 📫 How to reach me: chasebulkin@outlook.com
 

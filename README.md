@@ -1,7 +1,3 @@
-## Hello, My Name is Chase Bulkin!
-
-![snake gif](https://github.com/chase-b04/chase-b04/blob/output/github-snake-dark.svg)
-
 <h2 data-importer="text" align="left">Hi 👋! My name is Chase and I'm a Software Developer from Arizona</h2>
 
 ###
@@ -64,11 +60,4 @@
 <p data-importer="text" align="left">💼 My current stack: TypeScript, React, TailwindCSS, Node.js, PostgreSQL<br>📓 Professional Experience in TypeScript, JavaScript, React, Next.js, CSS/HTML, Python, and Bash<br>🔭 I’m currently working on: Multiple ServiceNow projects with my internship @ KeenStack, my upcoming mobile and web application Aisle!<br>🎓 Graduated with my Bachelors in Computer Science (Cybersecurity) from ASU<br>🌱 I’m currently learning: Cloud Services. Full-Stack development, Distributed Systems<br>👯 I’m looking to collaborate on: Application Development, Hardware, Game Design, and Cybersecurity<br>🤔 I’m looking for help with: Nothing yet!<br>💬 Ask me about my interests, previous projects, and hobbies!<br>📫 How to reach me: chasebulkin@outlook.com</p>
 
 ###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chase-b04/chase-b04/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chase-b04/chase-b04/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chase-b04/chase-b04/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
+![snake gif](https://github.com/chase-b04/chase-b04/blob/output/github-snake-dark.svg)

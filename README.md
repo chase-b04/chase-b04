@@ -19,7 +19,7 @@
 
 ###
 
-<p data-importer="text" align="left">💼 My current stack: TypeScript, React, Java, Spring Boot, PostgreSQL<br>📓 Professional Experience in JavaScript, React, Next.js, CSS/HTML, Java, Spring Boot, Python, and Bash<br>🔭 I’m currently working as a Jr. Software Engineer at PNC<br>🎓 Graduated with my Bachelors in Computer Science (Cybersecurity) from ASU<br>🌱 I’m currently learning: AWS, Kafka, and Kubernetes<br>👯 I’m looking to collaborate on: Application Development, Hardware, Game Design, and Cybersecurity<br>🤔 I’m looking for help with: Nothing yet!<br>💬 Ask me about my interests, previous projects, and hobbies!<br>📫 How to reach me: chasebulkin@outlook.com</p>
+<p data-importer="text" align="left">📓 Python and Java Developer<br>💼 Professional Experience in Python, React, Next.js, Node.js, Spring Boot, SQL, and Bash<br>🔭 I’m currently working as a Jr. Software Engineer at PNC<br>🎓 Graduated with my Bachelors in Computer Science (Cybersecurity) from ASU<br>🌱 I’m currently learning: Kubernetes, Rust, and Linux<br>👯 I’m looking to collaborate on: Web and Mobile Development, Hardware, Game Design, and Cybersecurity<br>🤔 I’m looking for help with: Nothing yet!<br>📫 How to reach me: chasebulkin@outlook.com</p>
 
 ###
 ![snake gif](https://github.com/chase-b04/chase-b04/blob/output/github-snake-dark.svg)
